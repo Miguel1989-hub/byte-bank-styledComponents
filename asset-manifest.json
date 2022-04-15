@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/byte-bank-styledComponents/static/js/main.3f1bcf63.js",
+    "static/media/dinheiro.svg": "/byte-bank-styledComponents/static/media/dinheiro.fd1502972a42e92fd69792dd13d3969a.svg",
+    "static/media/alimentacao.svg": "/byte-bank-styledComponents/static/media/alimentacao.c8e70a258eb596777e30c13983779417.svg",
+    "static/media/themeOn.svg": "/byte-bank-styledComponents/static/media/themeOn.e0f6e4537091311616ac998e52078aa0.svg",
+    "static/media/saude.svg": "/byte-bank-styledComponents/static/media/saude.6f38a1e4ea2fbf3ceb40fd4b68528a5e.svg",
+    "static/media/transporte.svg": "/byte-bank-styledComponents/static/media/transporte.f7ce14f958f4aa4b0905473e73cfc90a.svg",
+    "static/media/utilidades.svg": "/byte-bank-styledComponents/static/media/utilidades.359d3a0fd9f17bd7f3856ac9c62a4d1c.svg",
+    "static/media/bank_logo.svg": "/byte-bank-styledComponents/static/media/bank_logo.31122d1f8553eccfeca84074b17c7e02.svg",
+    "static/media/privado.svg": "/byte-bank-styledComponents/static/media/privado.6ca8038a3072f8ee10faa53cb936d4d5.svg",
+    "static/media/outros.svg": "/byte-bank-styledComponents/static/media/outros.eb3b2b82475a707b45f8548589fcd7c5.svg",
+    "static/media/themeOff.svg": "/byte-bank-styledComponents/static/media/themeOff.95a646ca6b312e16d199e2bf0d27e638.svg",
+    "static/media/olho.svg": "/byte-bank-styledComponents/static/media/olho.a2950b777aa0a8c24fb71bd22200b966.svg",
+    "index.html": "/byte-bank-styledComponents/index.html",
+    "main.3f1bcf63.js.map": "/byte-bank-styledComponents/static/js/main.3f1bcf63.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3f1bcf63.js"
+  ]
+}
